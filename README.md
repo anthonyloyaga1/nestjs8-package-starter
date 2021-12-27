@@ -28,10 +28,6 @@ npm install
 
 See [Changelog](CHANGELOG.md) for more information.
 
-## Contributing
-
-Contributions welcome! See [Contributing](CONTRIBUTING.md).
-
 ## Author
 
 **Anthony Loyaga** (*based on the code of John Biundo*)
