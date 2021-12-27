@@ -28,13 +28,9 @@ npm install
 
 See [Changelog](CHANGELOG.md) for more information.
 
-## Contributing
-
-Contributions welcome! See [Contributing](CONTRIBUTING.md).
-
 ## Author
 
-**John Biundo (Y Prospect on [Discord](https://discord.gg/G7Qnnhy))**
+**Anthony Loyaga** (*based on the code of John Biundo*)
 
 ## License
 
