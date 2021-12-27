@@ -1,5 +1,5 @@
 {
-  "name": "@digcode/nestjs8-package-starter",
+  "name": "@anthonyloyaga1/nestjs8-package-starter",
   "version": "1.0.0",
   "description": "NestJS npm Package Start",
   "author": "Anthony Loyaga <anthony.loyaga1@gmail.com>",
@@ -11,10 +11,11 @@
     "*.md"
   ],
   "scripts": {
+    "prebuild": "rimraf dist",
     "start:dev": "tsc -w",
     "build": "tsc",
-    "prepare": "npm run build",
     "format": "prettier --write \"src/**/*.ts\"",
+    "prepare": "npm run build",
     "lint": "tslint -p tsconfig.json -c tslint.json",
     "test": "jest",
     "test:watch": "jest --watch",
